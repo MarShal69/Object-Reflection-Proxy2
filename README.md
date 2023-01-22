@@ -1,3 +1,7 @@
+# SI Test demo
+
+[![Build status](https://ci.appveyor.com/api/projects/status/1x43e68oopevsuhd?svg=true)](https://ci.appveyor.com/project/MarShal69/object-reflection-proxy2)
+
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
