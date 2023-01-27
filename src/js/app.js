@@ -1,5 +1,5 @@
-export default function logCharacter({ special }) {
-// function logCharacter({ special }) {
+export default function logCharacter({ special = [] }) {
+// function logCharacter({ special = [] }) {
   const special1 = [];
   special.forEach((element) => {
     const {

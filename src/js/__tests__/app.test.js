@@ -42,3 +42,21 @@ test('checking the function', () => {
 
   expect(result).toEqual(expected);
 });
+
+
+test('checking the function', () => {
+  const character = {
+    name: 'Лучник',
+    type: 'Bowman',
+    health: 50,
+    level: 3,
+    attack: 40,
+    defence: 10,
+  };
+
+
+  const result = logCharacter(character);
+  const expected = [];
+
+  expect(result).toEqual(expected);
+});
